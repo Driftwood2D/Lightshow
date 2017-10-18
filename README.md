@@ -1,2 +1,2 @@
-# Lightshow
-Special effects handling for Driftwood 2D.
+# Stageshow
+Special effects and choreography handling for Driftwood 2D.

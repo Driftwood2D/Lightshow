@@ -1,5 +1,5 @@
 ####################################
-# Driftwood 2D Lightshow Engine    #
+# Driftwood 2D Stageshow Engine    #
 # viewport.py                      #
 # Copyright 2017 Michael D. Reiley #
 # & Paul Merrill                   #
@@ -25,13 +25,13 @@
 # IN THE SOFTWARE.
 # **********
 
-# Lightshow Viewport Manager
+# Stageshow Viewport Manager
 
 import random
 
 
 class ViewportManager:
-    """Viewport Manager
+    """Viewport Effects Handler
 
     Manages special effects involving the viewport."""
     def __init__(self):
