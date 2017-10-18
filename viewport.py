@@ -30,7 +30,7 @@
 import random
 
 
-class ViewportManager:
+class ViewportFX:
     """Viewport Effects Handler
 
     Manages special effects involving the viewport."""
